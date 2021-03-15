@@ -1,5 +1,7 @@
 exploratory_nb.ipynb
-replays/
-player_jsons/
+replays/invalid/*
+replays/json/*
+replays/replay/*
+player_jsons/*
 .idea/
 .ipynb_checkpoints/
